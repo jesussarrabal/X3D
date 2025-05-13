@@ -36,8 +36,8 @@ Transform {
     }
     geometry Text {
       string [
-        "Hello",
-        "World!"
+        "Lo mejor de las maduras",
+        "es que cuando te la folla te hacen unas lentejas de locos!"
       ]
       fontStyle FontStyle {
         justify [
